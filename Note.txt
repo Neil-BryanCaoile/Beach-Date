@@ -1,0 +1,4 @@
+A simple wireframe of a a blog.
+
+Me and my girlfriend went for a date and I decided to be creative and design a website.
+This wireframe will be implemented in the future.
